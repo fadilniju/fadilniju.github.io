@@ -16,6 +16,7 @@ url( 'https ://example.gif')
 no-repeat center; 
 z-index: 99999,
 }
+<link href="https://cdn.sellix.io/static/css/embed.css" rel="stylesheet" />
 a {
     text-decoration: none;
 }
